@@ -1,0 +1,8 @@
+var greeting = 'Hello, world!';
+    consol.log(greeting);
+
+    var greeting2 = 'Welcome to node.js';
+    consol.log(greeting2);
+
+    vsr sentence1 = 'Learning how to debug code with the debugger';
+    consol.log(sentenceOne);
